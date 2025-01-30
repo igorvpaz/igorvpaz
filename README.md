@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
 
-- 💻 I’m currently working on **+praTi course and Crescer CWI**
+- 💻 I’m currently working on **+praTi course**
 
 - 🤖 I’m currently learning **AI Agents**
 
