@@ -2,9 +2,8 @@
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
 
-- 💻 I’m currently working on **+praTi course**
+- 💻 I’m currently developing myself at **UNISINOS**
 
-- 🤖 I’m currently learning **AI Agents**
 
 - 📫 How to reach me **igorviannaprofissional@gmail.com**
 
